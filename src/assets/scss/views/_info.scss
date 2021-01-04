@@ -1,0 +1,15 @@
+#info{
+    display: flex;
+    justify-content: center;
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color:$color01;
+    padding-left: 10%;
+    padding-right: 10%;
+    table{
+        display: flex;
+        justify-content: center;
+    }
+}

@@ -1,0 +1,17 @@
+$color01:#033540;
+$color02:#A2F229;
+$color03:#AEF249;
+$color04:#F2E205;
+$color05:#F2F2F2;
+
+@import './components/navbar';
+@import './components/footer';
+@import './components/cover';
+
+@import './utilities/mixins';
+
+@import './views/about';
+@import './views/contact';
+@import './views/home';
+@import './views/info';
+@import './views/rules';
