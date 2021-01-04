@@ -1,10 +1,12 @@
 #footer{
-    display: flex;
-    justify-content: center;
-    background-color: $color01;
-    font-style: italic;
-    color: $color04;
-    font-family: Avenir, Helvetica, Arial, sans-serif;  
-    border-bottom-left-radius: 25%;
-    border-bottom-right-radius: 25%;
+    .card-header{
+        background-color: $color01;
+        color:$color02;
+    }
+    .card-footer{
+        background-color:$color01;
+    }
+    .text-muted{
+        font-style: italic;
+    }
 }
