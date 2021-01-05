@@ -1,6 +1,6 @@
 <template>
     <div id="navbar">
-      <nav class="navbar navbar-expand-lg navbar-dark ">
+      <nav class="navbar navbar-expand-lg navbar-dark">
     <div class="container-fluid">
       <router-link class="navbar-brand" to="/">NYLS</router-link>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
