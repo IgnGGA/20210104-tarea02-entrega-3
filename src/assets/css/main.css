@@ -2,7 +2,8 @@
   background-color: #033540;
   border-top-left-radius: 15%;
   border-top-right-radius: 15%; }
-  #navbar .navbar, #navbar .nanbar-expand {
+  #navbar .navbar {
+    margin-bottom: 3.5%;
     background-color: #033540; }
   #navbar .link {
     padding-left: 2%;
@@ -26,6 +27,12 @@
 
 .btn-primary {
   font-style: italic; }
+
+body {
+  padding-left: 1.5%;
+  padding-right: 1.5%; }
+  body header {
+    padding-bottom: 2%; }
 
 #about {
   font-family: Avenir, Helvetica, Arial, sans-serif;
