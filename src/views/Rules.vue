@@ -1,43 +1,20 @@
 <template>
   <div id="rules">
-    <nav id="navbar-example3" class="navbar navbar-light bg-light">
+    <b-container class="bv-example-row">
+      <b-row>
+        <b-col class="bordeCol">
       <h1>Rules of Play &amp; Policies</h1>
-      <nav class="nav nav-pills flex-column">
-        <a class="nav-link" href="#item-1">Sportsmanship</a>
-        <a class="nav-link" href="#item-2">Fifa Field Regulations</a>
-        <nav class="nav nav-pills flex-column">
-          <a class="nav-link ms-3 my-1" href="#item-2-1">Dimensions.</a>
-          <a class="nav-link ms-3 my-1" href="#item-2-2">Competition Fields.</a>
-          <a class="nav-link ms-3 my-1" href="#item-2-3">Fields Used By Young Age Groups.</a>
-          <a class="nav-link ms-3 my-1" href="#item-2-4">Team Bench Areas.</a>
-        </nav>
-        <a class="nav-link" href="#item-3">Number of Players</a>
-        <a class="nav-link" href="#item-4">Equipment</a>
-        <nav class="nav nav-pills flex-column">
-          <a class="nav-link ms-3 my-1" href="#item-4-1">Team Size.</a>
-          <a class="nav-link ms-3 my-1" href="#item-4-2">Size of Age Group Teams.</a>
-        </nav>
-        <a class="nav-link" href="#item-5">Substitutions</a>
-        <a class="nav-link" href="#item-6">Confiscated Player Passes</a>
-        <a class="nav-link" href="#item-7">All-Play</a>
-        <a class="nav-link" href="#item-8">Player's Equipment</a>
-        <a class="nav-link" href="#item-9">Mixed Teams</a>
-         <nav class="nav nav-pills flex-column">
-          <a class="nav-link ms-3 my-1" href="#item-9-1">Girls Playing On Boys' Teams.</a>
-          <a class="nav-link ms-3 my-1" href="#item-9-2">Types of Teams.</a>
-        </nav>
-        <a class="nav-link" href="#item-10">Coaching from the Sidelines</a>
-        <a class="nav-link" href="#item-11">Game Termination</a>
-        <a class="nav-link" href="#item-12">Conditions of Replay of Games</a>
-        <a class="nav-link" href="#item-13">Referee Responsibilities</a>
-      </nav>
-    </nav>
-
+       <h1>Northside Youth Soccer League</h1>
+       <h2>Rules of Play &amp; Policies</h2>
+       <p>FIFA rules shall govern NYSL play except as modified herein.</p>
+        </b-col>
+        <b-col class="borderCol">
     <div
       data-bs-spy="scroll"
       data-bs-target="#navbar-example3"
       data-bs-offset="0"
       tabindex="0"
+      id="scrollTest"
     >
       <h4 id="item-1">Sportsmanship</h4>
       <p>
@@ -326,5 +303,8 @@
             </li>
           </ul></p>
     </div>
+    </b-col>
+      </b-row>
+    </b-container>
   </div>
 </template>
