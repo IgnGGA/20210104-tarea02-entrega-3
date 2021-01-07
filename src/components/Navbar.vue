@@ -13,12 +13,12 @@
     <b-collapse id="navbar-toggle-collapse" is-nav>
       <b-navbar-nav class="ml-auto">
         <b-nav-item to="/">Home</b-nav-item>
-        <b-nav-item href="/about">About</b-nav-item>
-        <b-nav-item href="/contact">Contact</b-nav-item>
-        <b-nav-item href="/info">Info</b-nav-item>
-        <b-nav-item href="/registration">Registratin</b-nav-item>
-        <b-nav-item href="/rules">Rules</b-nav-item>
-        <b-nav-item href="#" disabled>NorthSide Youth Soccer League</b-nav-item>
+        <b-nav-item to="/about">About</b-nav-item>
+        <b-nav-item to="/contact">Contact</b-nav-item>
+        <b-nav-item to="/info">Info</b-nav-item>
+        <b-nav-item to="/registration">Registratin</b-nav-item>
+        <b-nav-item to="/rules">Rules</b-nav-item>
+        <b-nav-item to="#" disabled>NorthSide Youth Soccer League</b-nav-item>
       </b-navbar-nav>
     </b-collapse>
   </b-navbar>
