@@ -1,7 +1,7 @@
 <template>
 <div id=Navbar>
   <b-navbar toggleable type="dark" variant="dark">
-    <b-navbar-brand href="#">NYSL</b-navbar-brand>
+    <b-navbar-brand href="/">NYSL</b-navbar-brand>
 
     <b-navbar-toggle target="navbar-toggle-collapse">
       <template #default="{ expanded }">
@@ -22,6 +22,16 @@
       </b-navbar-nav>
     </b-collapse>
   </b-navbar>
-  <router-view />
+  <Transicion></Transicion>
 </div>
 </template>
+
+<script>
+import Transicion from '../components/Transicion'
+export default {
+  name:'Navbar',
+  components:{
+    Transicion,
+  }
+}
+</script>
