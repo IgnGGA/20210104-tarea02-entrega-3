@@ -4,7 +4,8 @@
       <div id="pageheader">
         <h1>NYSL Game Information</h1>
       </div>
-        <Table></Table>
+        <TableSep></TableSep>
+        <TableOct></TableOct>
       <div id="bodycontent">
         <h2><em>Fall Schedule</em></h2>
         <p class="announcement">*All games take place on Saturday</p>
@@ -37,11 +38,13 @@
 </template>
 
 <script>
-import Table from '../components/Tabla.vue'
+import TableSep from '../components/TablaSep.vue'
+import TableOct from '../components/TablaOct.vue'
 export default {
   name: 'Info',
   components:{
-    Table
+    TableSep,
+    TableOct,
   }
 }
 </script>     
