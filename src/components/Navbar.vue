@@ -1,7 +1,7 @@
 <template>
 <div id=Navbar>
   <b-navbar toggleable type="dark" variant="dark">
-    <b-navbar-brand href="/">NYSL</b-navbar-brand>
+    <b-navbar-brand to="/">NYSL</b-navbar-brand>
 
     <b-navbar-toggle target="navbar-toggle-collapse">
       <template #default="{ expanded }">
