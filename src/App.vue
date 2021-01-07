@@ -1,23 +1,27 @@
 <template>
-  <header>
-    <Navbar></Navbar>
-  </header>
+  <div>
+    <header>
+      <Navbar></Navbar>
+    </header>
+    <footer>
+      <PiePag></PiePag>
+    </footer>
+  </div>
 </template>
 
 <script>
-import Navbar from './components/Navbar.vue'
-//import PiePag from './components/PiePag.vue'
+import Navbar from "./components/Navbar.vue";
+import PiePag from "./components/PiePag.vue";
 
 export default {
-  name:'App',
-  components:{
+  name: "App",
+  components: {
     Navbar,
-    //PiePag,
-  }
-  
-}
+    PiePag,
+  },
+};
 </script>
 
 <style lang="css">
-  @import '../src/assets/css/main.css';
+@import "../src/assets/css/main.css";
 </style>
