@@ -8,6 +8,7 @@
     </body>
     <footer>
       <PiePag></PiePag>
+      <Footer></Footer>
     </footer>
   </div>
 </template>
@@ -15,7 +16,8 @@
 <script>
 import Navbar from "./components/Navbar.vue";
 import PiePag from "./components/PiePag.vue";
-import Transicion from './components/Transicion'
+import Transicion from './components/Transicion.vue'
+import Footer from './components/Footer.vue';
 
 export default {
   name: "App",
@@ -23,6 +25,7 @@ export default {
     Navbar,
     PiePag,
     Transicion,
+    Footer,
   },
 };
 </script>
