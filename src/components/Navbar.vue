@@ -16,7 +16,7 @@
         <b-nav-item to="/about"><b-icon icon="question-circle-fill"></b-icon> About</b-nav-item>
         <b-nav-item to="/contact"><b-icon icon="chat-text-fill"></b-icon> Contact</b-nav-item>
         <b-nav-item to="/info"><b-icon icon="exclamation-circle-fill"></b-icon> Info</b-nav-item>
-        <b-nav-item to="/registration"><b-icon icon="input-cursor-text"></b-icon> Registratin</b-nav-item>
+        <b-nav-item to="/registration"><b-icon icon="input-cursor-text"></b-icon> Registration</b-nav-item>
         <b-nav-item to="/rules"><b-icon icon="layout-text-sidebar-reverse"></b-icon> Rules</b-nav-item>
         <b-nav-item to="#" disabled>NorthSide Youth Soccer League</b-nav-item>
       </b-navbar-nav>
