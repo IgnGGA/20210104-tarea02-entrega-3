@@ -12,26 +12,15 @@
 
     <b-collapse id="navbar-toggle-collapse" is-nav>
       <b-navbar-nav class="ml-auto">
-        <b-nav-item to="/">Home</b-nav-item>
-        <b-nav-item to="/about">About</b-nav-item>
-        <b-nav-item to="/contact">Contact</b-nav-item>
-        <b-nav-item to="/info">Info</b-nav-item>
-        <b-nav-item to="/registration">Registratin</b-nav-item>
-        <b-nav-item to="/rules">Rules</b-nav-item>
+        <b-nav-item to="/"><b-icon icon="house-door-fill"></b-icon> Home</b-nav-item>
+        <b-nav-item to="/about"><b-icon icon="question-circle-fill"></b-icon> About</b-nav-item>
+        <b-nav-item to="/contact"><b-icon icon="chat-text-fill"></b-icon> Contact</b-nav-item>
+        <b-nav-item to="/info"><b-icon icon="exclamation-circle-fill"></b-icon> Info</b-nav-item>
+        <b-nav-item to="/registration"><b-icon icon="input-cursor-text"></b-icon> Registratin</b-nav-item>
+        <b-nav-item to="/rules"><b-icon icon="layout-text-sidebar-reverse"></b-icon> Rules</b-nav-item>
         <b-nav-item to="#" disabled>NorthSide Youth Soccer League</b-nav-item>
       </b-navbar-nav>
     </b-collapse>
   </b-navbar>
-  <Transicion></Transicion>
 </div>
 </template>
-
-<script>
-import Transicion from '../components/Transicion'
-export default {
-  name:'Navbar',
-  components:{
-    Transicion,
-  }
-}
-</script>

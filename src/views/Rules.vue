@@ -3,20 +3,16 @@
     <b-container class="bv-example-row">
       <b-row>
         <b-col class="bordeCol">
+          <div>
       <h1>Rules of Play &amp; Policies</h1>
        <h1>Northside Youth Soccer League</h1>
        <h2>Rules of Play &amp; Policies</h2>
        <p>FIFA rules shall govern NYSL play except as modified herein.</p>
+          </div>
         </b-col>
         <b-col class="borderCol">
-    <div
-      data-bs-spy="scroll"
-      data-bs-target="#navbar-example3"
-      data-bs-offset="0"
-      tabindex="0"
-      id="scrollTest"
-    >
-      <h4 id="item-1">Sportsmanship</h4>
+    <div id="scrollTest">
+      <h4>Sportsmanship</h4>
       <p>
         The common interest that members of the Association share is to inspire
         youth to practice the ideals of sportsmanship and fair play. Any player,
@@ -24,15 +20,15 @@
         detracts from this purpose is subject to disciplinary action regardless
         of technical soccer background, expertise, accomplishments or standing.
       </p>
-      <h4 id="item-2">Fifa Field Regulations</h4>
+      <h4>Fifa Field Regulations</h4>
       <p></p>
-      <h5 id="item-2-1">Dimensions.</h5>
+      <h5>Dimensions.</h5>
       <p>
         FIFA Law 1 provides for flexible external field dimensions within a
         given maximum and minimum width and length. These dimensions should be
         adhered to for all fields used by teams under 12 and older.
       </p>
-      <h5 id="item-2-2">Competition Fields.</h5>
+      <h5>Competition Fields.</h5>
       <p>
         Fields used within the competition program must be a minimum of 100 x 60
         yards. Leagues, districts or associations participating in the state
@@ -44,8 +40,8 @@
         to provide an acceptable field may be required to play all their games
         away.
       </p>
-      <h5 id="item-2-3">Fields Used By Young Age Groups.</h5>
-      <p><ol type="a">
+      <h5>Fields Used By Young Age Groups.</h5>
+      <p><ol>
                 <li>
                   U-6 play on a field approximately 20 X 40 yards with no
                   penalty areas. Fields for older age groups should be
@@ -64,8 +60,8 @@
                   internal dimensions and size of goal similarly modified.
                 </li>
               </ol></p>
-      <h5 id="item-2-4">Team Bench Areas</h5>
-      <p><ol type="a">
+      <h5>Team Bench Areas</h5>
+      <p><ol>
                 <li>
                   Recreation &amp; District Programs
                   <ul>
@@ -118,19 +114,19 @@
                   </ul>
                 </li>
               </ol></p>
-      <h4 id="item-3">Equipment</h4>
+      <h4>Equipment</h4>
       <p>We will abide by and accept equipment standards as defined by
               FIFA, USSF and USYSA.</p>
-      <h4 id="item-4">Number of Players</h4>
+      <h4>Number of Players</h4>
       <p></p>
-      <h5 id="item-4-1">Team Size.</h5>
+      <h5>Team Size.</h5>
       <p>Except as noted below, below, team rosters shall consist of not
           less than eleven nor more than eighteen players. A team must have
               at least seven (7) players present and able to play before
               referees are permitted to start a sanctioned game. No more than
               eleven (11) players per team may be on the field at any one time
               during the game.</p>
-      <h5 id="item-4-2">Size of Age Group Teams.</h5>
+      <h5>Size of Age Group Teams.</h5>
       <p>In order to give player's maximum opportunity to develop in the
               game of soccer, U-6 through U-1O play modified rules and size of
               roster as stated in United States Youth Soccer Association (USYSA)
@@ -141,7 +137,7 @@
       <p>Recreational/Developmental players at other ages or where numbers
               in the playing area are low are strongly encouraged to play
               small-sided games on reduced field size.</p>
-      <h4 id="item-5">Substitutions</h4>
+      <h4>Substitutions</h4>
       <p> <ul>
             <li>
               Teams may make an unlimited number of substitutions at the times
@@ -162,7 +158,7 @@
               </ol>
             </li>
           </ul></p>
-      <h4 id="item-6">Confiscated Player Passes</h4>
+      <h4>Confiscated Player Passes</h4>
       <p><ul>
             <li>
               Passes of any individual(s) ejected from any match shall be
@@ -181,14 +177,14 @@
               the conclusion of the match.
             </li>
           </ul></p>
-      <h4 id="item-7">All-Play</h4>
+      <h4>All-Play</h4>
       <p><ul>
             <li>
               All-play means that every recreation player on every team shall
               play at least fifty percent of each game. Coaches in the
               competition program are encouraged to play their players 50% of
               each game.
-              <ul style="list-style-type: circle">
+              <ul>
                 <li>
                   A Coach shall be permitted to not play a player 50% of each
                   game under special circumstances, e.g., unexcused absences
@@ -198,7 +194,7 @@
               </ul>
             </li>
           </ul></p>
-      <h4 id="item-8">Player's Equipment</h4>
+      <h4>Player's Equipment</h4>
       <p><ul>
             <li>
               Where the uniform colors of both teams are so similar that the
@@ -206,15 +202,15 @@
               colors distinct from those of the opponent.
             </li>
           </ul></p>
-      <h4 id="item-9">Mixed Teams</h4>
+      <h4>Mixed Teams</h4>
       <p></p>
-      <h5 id="item-9-1">Girls Playing On Boys' Teams.</h5>
+      <h5>Girls Playing On Boys' Teams.</h5>
       <p> Girls are eligible to play on boys'teams with parent/guardian
               permission.</p>
-      <h5 id="item-9-2">Types of Teams.</h5>
+      <h5>Types of Teams.</h5>
       <p>Teams with females only are Girls Teams. All others are Boys
               Teams.</p>
-      <h4 id="item-10">Coaching from the Sidelines</h4>
+      <h4>Coaching from the Sidelines</h4>
       <p> <ul>
             <li>
               Coaching from the sidelines, i.e., giving direction to one's own
@@ -239,7 +235,7 @@
               </ol>
             </li>
           </ul></p>
-      <h4 id="item-11">Game Termination</h4>
+      <h4>Game Termination</h4>
       <p>  <ul>
             <li>
               Any game terminated after 15 minutes into the second half by the
@@ -250,7 +246,7 @@
               because of their actions they will lose the game 1-0.
             </li>
           </ul></p>
-      <h4 id="item-12">Conditions of Replay of Games</h4>
+      <h4>Conditions of Replay of Games</h4>
       <p><ul>
             <li>
               Any game which is required to be replayed as a result of any
@@ -270,7 +266,7 @@
               </ol>
             </li>
           </ul></p>
-      <h4 id="item-13">Referee Responsibilities</h4>
+      <h4>Referee Responsibilities</h4>
       <p> <ul>
             <li>
               The referee shall verify the identity of the players and coaches
